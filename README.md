@@ -3,7 +3,7 @@
 ### About me:
 
 - 🖐 I'm 22 years old and living in Santa Cruz do Sul, Brasil
-- 🌱 I’m currently taking a couple courses: \n
+- 🌱 I’m currently taking a couple courses: /n
         - Harvard's CS50 Web Development course
         - Stanford's Machine Learning course @ Coursera
 
