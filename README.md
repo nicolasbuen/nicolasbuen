@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently taking a couple courses: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Harvard's CS50 Web Development course <br />
-
-- ⚡ I'm also taking the Alura's bootcamp on Data Science <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Alura's bootcamp on Data Science
 
 - 📖 I recently finished this courses: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stanford's Machine Learning (using Octave) course @ Coursera
