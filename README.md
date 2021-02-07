@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Joining Data With Pandas <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Introduction to Data Visualization with Matplotlib <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Introduction to Data Visualization with Seaborn <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PPython Data Science Toolbox <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python Data Science Toolbox <br />
 
 - 📖 I recently finished this courses: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stanford's Machine Learning (using Octave) course @ Coursera
