@@ -16,5 +16,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python Data Science Toolbox <br />
 
 - 📖 I recently finished this courses: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stanford's Machine Learning (using Octave) course @ Coursera
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stanford's Machine Learning (using Octave) course @ Coursera  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Alura's bootcamp on Data Science](https://github.com/nicolasbuen/Alura-s-Data-Science-Bootcamp)
