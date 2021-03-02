@@ -18,3 +18,6 @@
 - 📖 I recently finished this courses: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stanford's Machine Learning (using Octave) course @ Coursera  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Alura's bootcamp on Data Science](https://github.com/nicolasbuen/Alura-s-Data-Science-Bootcamp)
+
+- 📝 Check my latest Data Science project: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Predição de Admissão na UTI usando dados reais do Hospital Sirio-Libanês (PT-BR)](https://www.kaggle.com/nicolasbueno/random-forest-predi-o-de-admiss-o-na-uti)
