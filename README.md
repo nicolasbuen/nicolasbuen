@@ -21,5 +21,5 @@
 
 - 📝 Check my latest Data Science projects: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Predição de Admissão na UTI usando dados reais do Hospital Sirio-Libanês (PT-BR)](https://www.kaggle.com/nicolasbueno/random-forest-predi-o-de-admiss-o-na-uti)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Uso do Tabaco entre Estudantes Brasileiros e o Ambiente Famíliar (PT-BR)](https://github.com/nicolasbuen/Alura-DS-Bootcamp-Projects/tree/master/Projeto%20M3%20-%20EDA%20PeNSE%20-%20Alunos%20e%20Tabaco)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Análise Exploratória dos Dados - Pakistan's Largest E-Commerce Dataset (PT-BR)](https://github.com/nicolasbuen/eda-pakistanese-ecommerce)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Uso do Tabaco entre Estudantes Brasileiros e o Ambiente Famíliar (PT-BR)](https://jovian.ai/nicolasbuen/modulo-3-estudantes-e-o-uso-de-tabaco-pense)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Análise Exploratória dos Dados - Pakistan's Largest E-Commerce Dataset (PT-BR)](https://jovian.ai/nicolasbuen/eda-pakistan-e-commerce-retailer-kaggle)
