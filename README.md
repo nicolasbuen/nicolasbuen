@@ -4,20 +4,12 @@
 
 - 🖐 I'm 22 years old Data Science enthusiast and living in Santa Cruz do Sul, Brasil <br />
 - 📚 Business Administration student at the University of Santa Cruz do Sul/BR. 
-- 🌎 I also make part of the exchange program between Unisc and Concordia University of Edmonton/CA (Business Statistics and Data Management classes). 
-
-- 🌐 I study at [Datacamp](https://www.datacamp.com/profile/nicolasbuen98) and finished this courses: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Introduction to Python <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Intermediate Python <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Data Manipulation with Pandas <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Joining Data With Pandas <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Introduction to Data Visualization with Matplotlib <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Introduction to Data Visualization with Seaborn <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python Data Science Toolbox <br />
+- 🌎 I also made part of an exchange program between Unisc and Concordia University of Edmonton/CA (Business Statistics and Data Management classes). 
 
 - 📖 I recently finished this courses: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stanford's Machine Learning (using Octave) course @ Coursera  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Alura's bootcamp on Data Science](https://github.com/nicolasbuen/Alura-s-Data-Science-Bootcamp)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Alura's bootcamp on Data Science](https://github.com/nicolasbuen/Alura-s-Data-Science-Bootcamp) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Datacamp's Data Scientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python)
 
 - 📝 Check my latest Data Science projects: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Extração, Análise e Previsão - League of Legends (PT-BR)](https://jovian.ai/nicolasbuen/collections/lol-from-scrapping-to-predicting)<br>
