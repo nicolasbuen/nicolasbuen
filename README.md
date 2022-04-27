@@ -13,6 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Datacamp's Data Scientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python)
 
 - 📝 Check my latest Data Science projects: <br />
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Stone Data Challenge - Previsão de TPV (PT-BR)](https://github.com/nicolasbuen/stone-data-challenge)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Extração, Análise e Previsão - League of Legends (PT-BR)](https://jovian.ai/nicolasbuen/collections/lol-from-scrapping-to-predicting)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Predição de Admissão na UTI usando dados reais do Hospital Sirio-Libanês (PT-BR)](https://www.kaggle.com/nicolasbueno/random-forest-predi-o-de-admiss-o-na-uti)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Uso do Tabaco entre Estudantes Brasileiros e o Ambiente Famíliar (PT-BR)](https://jovian.ai/nicolasbuen/modulo-3-estudantes-e-o-uso-de-tabaco-pense)<br>
