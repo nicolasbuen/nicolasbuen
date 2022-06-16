@@ -3,7 +3,7 @@
 ### About me:
 
 - 🖐 I'm 23 years old and living in Santa Cruz do Sul, Brasil <br />
-- 👔 I work on the Stone Co. credit team as a data scientist
+- 👔 I work on the TruePay risk team as a data scientist
 - 📚 Business Administration student at the University of Santa Cruz do Sul/BR. 
 - 🌎 I also made part of an exchange program between Unisc and Concordia University of Edmonton/CA (Business Statistics and Data Management classes). 
 
