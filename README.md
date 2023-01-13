@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🖐 I'm 24 years old and living in Santa Cruz do Sul, Brasil <br />
+- 🖐 I'm 24 years old and living in Porto Alegre, Brasil <br />
 - 👔 I work on the Tino risk&pricing team as a data scientist
 - 📚 Business Administration bachelor for the University of Santa Cruz do Sul/BR. 
 - 🌎 I also made part of an exchange program between Unisc and Concordia University of Edmonton/CA (Business Statistics and Data Management classes). 
